@@ -20,8 +20,10 @@ Text Pre-Processing #a. Created UDF Functions for text processing: Convert to lo
 
 #c. Text Lemmatization: Lemmatization is a text pre-processing technique used in natural language processing (NLP) models to break a word down to its root meaning to identify similarities.
 
-Sentiment Anallysis Utilized textblob function to assign sentiment polarity to each customer review. Assigned Binary Rating as Target Variable 1: Positive 0: Negative
+Sentiment Anallysis   
+Utilized textblob function to assign sentiment polarity to each customer review. Assigned Binary Rating as Target Variable 1: Positive 0: Negative
 
-Visualization used matplotlib to analyse sentiment distribution.
+Visualization  
+Used matplotlib to analyse sentiment distribution.
 
 C:\Users\Arpita\Downloads\Sentiment Analysis
